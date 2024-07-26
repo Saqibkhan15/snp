@@ -1,0 +1,91 @@
+.header {
+   display: flex;
+    overflow: hidden;
+    padding: 20px;
+    background-color: #000000;
+}
+
+.container1 {
+  
+    width: 30%;
+}
+
+.container2 ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+
+}
+
+.container2 li {
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+
+}
+
+.container3 {
+  
+    width: 30%;
+    text-align: right;
+}
+
+.image {
+    width: auto;
+    height: 50px;
+    margin: auto;
+
+}
+
+button {
+    margin-left: 10px;
+    border: radius 30px;
+    ;
+    border: radius 20px;
+    ;
+}
+
+.btn1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(235, 230, 230);
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+
+.btn2 {
+    background-color: rgb(253, 0, 0);
+    color: rgb(235, 230, 230);
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+
+.section1{
+    overflow: hidden;
+    padding: 20px;
+    background-color: #000000;
+
+}
+
+.container4 img {
+    width: 100%;
+    height: auto;
+}
+.text h1{
+background-color: #000000;
+color: white;
+}
+.text h2{
+background-color: #000000;
+color: white;
+}
+.text h3{
+    background-color: #000000;
+    color: white;
+    }
